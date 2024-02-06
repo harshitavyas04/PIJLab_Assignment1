@@ -4,6 +4,7 @@ in java (command line args, Scanner, BufferedReader, DataInputStream, Console )
 
 This repository contains a Java program implementing a simple menu-driven console application. The application offers two functionalities: calculating the factorial of a given number and generating a specified number of terms in the Fibonacci sequence.
 
+
 Part2: Implement a simple menu driven calculator in java to implement add, sub, mul, div, sqrt, power,
 mean, variance. Implement a separate Calculator class to include all related function inside that class.
 (mean calculation : program reads numbers from the keyboard, summing them in the process until the
